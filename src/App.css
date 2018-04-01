@@ -1,0 +1,10 @@
+form {
+  width: 500px;
+  flex-direction: column;
+}
+
+.reactSearch {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
